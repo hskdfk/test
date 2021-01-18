@@ -1,0 +1,3 @@
+D:\xiangmu\vuestart\SFA\PBMIF\obj\Debug\PBMIF.njsprojAssemblyReference.cache
+D:\xiangmu\vuestart\SFA\PBMIF\obj\Debug\PBMIF.njsproj.CoreCompileInputs.cache
+D:\xiangmu\vuestart\SFA\PBMIF\bin\Microsoft.NodejsTools.WebRole.dll
